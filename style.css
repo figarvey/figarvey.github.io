@@ -1,3 +1,36 @@
-h1 {
-  color:blueviolet;
-}
+
+    header {
+    background: url("https://www.thespruce.com/thmb/xGhl1pESnCDyL5_aSP3PwS8k-nM=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/christmasgiftGettyImages-871610664-5a3186eb47c2660036051cfe.jpg");
+    background-size: cover;
+    color: white;
+    text-align: center;
+    height: 165px;
+  }
+  a {
+    color: white;
+
+    }
+    h1 {
+      font-size: 70px;
+      }
+      img {
+        margin: 40px 0px 0px 0px;
+        border: 7px solid white;
+        border-radius:20px;
+        }
+  ul {
+    padding: 10px;
+    background:black;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+      }
+      div {
+  height: 200px;
+  background-size: cover;
+  margin: 0 auto;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+  }
