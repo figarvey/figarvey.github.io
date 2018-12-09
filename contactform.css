@@ -1,0 +1,68 @@
+body {
+  margin:0:
+  padding:0;
+  text-align: center;
+  background: url(christmas.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+
+.contact {
+  margin-top: 100px;
+  color:red;
+  text-transform: uppercase;
+  transition-timing-function: ease-in;
+  transition-timing-function: cubic-bezier(0.42, 0, 1, 1);
+
+
+}
+
+.contact-title h1{
+  font-size: 49px;
+  line-height: 10px;
+  color:#e60000;
+}
+
+.contact-title h2{
+  font-size: 25px;
+  color:#e60000;
+}
+
+form {
+  margin-top: 50px;
+  transition: all 4s ease-in-out;
+}
+
+.form-control {
+  width: 600px;
+  background: white;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid gray;
+  color: #ff00;
+  font-size: 20px;
+  margin-bottom: 16px;
+
+}
+
+input {
+  height: 45px;
+}
+
+
+form .submit{
+  background: #ff5722;
+  border-color: transparent;
+  color:#fff;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  height:50px;
+  margin-top: 20px;
+}
+
+form .submit:hover {
+  background-color: #f44336;
+  cursor: pointer;
+}
