@@ -163,3 +163,6 @@ section{
   border-right: .2em;
   transform: preserve-3d;
 }
+footer {
+  colour: white;
+}
