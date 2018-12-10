@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background: #000;
+  font-family: "karma", sans-serif;
 
 }
  ul {
@@ -92,7 +93,7 @@ background-size: cover;
 *{
   padding:0;
   margin: 0;
-  font-family: sans-serif;
+  font-family: "karma", sans-serif;
 }
 
 .container {
@@ -111,6 +112,7 @@ background-size: cover;
 
 .text1 {
   font-size: 60px;
+  font-family: "karma", sans-serif;
   font-weight: 700;
   letter-spacing: 8px;
   margin-bottom: 20px;
@@ -122,6 +124,7 @@ background-size: cover;
 
 .text2{
   font-size: 30px;
+  font-family: "karma", sans-serif;
   color:white;
 
 }
@@ -153,6 +156,7 @@ section{
   display: block;
   max-width: 600px;
   color: white;
+  font-family: "karma", sans-serif;
   margin: 0 auto 1em;
   height: 200px;
   position: relative;
