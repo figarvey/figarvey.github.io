@@ -66,3 +66,24 @@ form .submit:hover {
   background-color: #f44336;
   cursor: pointer;
 }
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:   #008000;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    #008000;
+   opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    #008000;
+   opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color:    #008000;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+   color:    #008000;
+}
+
+::placeholder { /* Most modern browsers support this now. */
+   color:   #008000;
+}
