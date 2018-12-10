@@ -3,6 +3,7 @@ body {
   padding: 0;
   background: #000;
   font-family: "karma", sans-serif;
+  color: white; 
 
 }
  ul {
@@ -165,4 +166,7 @@ section{
 }
 footer {
   colour: white;
+}
+a {
+  color: #cc0066;
 }
