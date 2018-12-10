@@ -5,7 +5,7 @@ body {
   background: url(christmas.jpg);
   background-size: cover;
   background-position: center;
-  font-family: sans-serif;
+  font-family: "karma", sans-serif;
 }
 
 .contact {
