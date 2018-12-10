@@ -9,23 +9,32 @@
   }
   a {
     color: white;
+          font-family: "karma", sans-serif;    
+
 
     }
     h1 {
       font-size: 70px;
+            font-family: "karma", sans-serif;    
+
       }
       img {
         margin: 40px 0px 0px 0px;
         border: 7px solid white;
         border-radius:20px;
+
         }
   ul {
     padding: 10px;
     background:black;
+          font-family: "karma", sans-serif;    
+
     }
     li {
       display: inline;
       padding: 0px 10px 0px 10px;
+            font-family: "karma", sans-serif;    
+
       }
       div {
   height: 200px;
@@ -34,6 +43,8 @@
   position: relative;
   margin: 40px 0 0 0;
   border-radius: 12px;
+              font-family: "karma", sans-serif;    
+
   }
 .DIY{
  background: url("https://www.darbysmart.com/assets/images/home-diy-banner.jpg");
