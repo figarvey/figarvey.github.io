@@ -129,7 +129,12 @@ background-size: cover;
   color:white;
 
 }
-
+footer {
+  color: white;
+}
+a {
+  color: #cc0066;
+}
 @keyframes text {
   0%{
     color: black;
@@ -164,9 +169,5 @@ section{
   border-right: .2em;
   transform: preserve-3d;
 }
-footer {
-  color: white;
-}
-a {
-  color: #cc0066;
-}
+
+
